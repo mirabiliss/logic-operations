@@ -1,2 +1,2 @@
-# logic-operations
+# logical_operations
 using macros
